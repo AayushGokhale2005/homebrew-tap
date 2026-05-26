@@ -5,7 +5,7 @@ Homebrew tap for [AskDocs](https://github.com/AayushGokhale2005/askdocs).
 ## Install
 
 ```bash
-brew tap askdocs/tap
+brew tap AayushGokhale2005/tap
 brew install askdocs
 ```
 
